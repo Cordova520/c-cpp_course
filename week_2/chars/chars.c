@@ -1,4 +1,4 @@
-/*  Char i C
+/*  Char in C
     A Fundamental Type
     Daniel Cordova-Guzman
     Sept. 29, 2022
