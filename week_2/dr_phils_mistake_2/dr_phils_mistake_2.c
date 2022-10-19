@@ -8,10 +8,10 @@
 #define PI 3.14159
 int main(void)
 { 
-    int radius;
+    double radius;
     printf("Enter radius:");
-    scanf("%d", &radius);
+    scanf("%lf", &radius);
     //printf("volume is : %d \n\n", 4 *radius*radius*radius/3 );
-    printf("volume is : %f \n\n", 4 *radius*radius*radius*PI/3 );
+    printf("volume is : %lf \n\n", 4 *radius*radius*radius*PI/3 );
     return 0;
 }
